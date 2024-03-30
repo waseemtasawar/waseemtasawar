@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Waseem Tasawar</h1>
 <h3 align="center">I'm passionate about building web application</h3>
-<div align="center"> <img src="[https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png](https://media.licdn.com/dms/image/D4D16AQG60B4VSpwyoA/profile-displaybackgroundimage-shrink_350_1400/0/1678905114180?e=1717027200&v=beta&t=oxVr23jM4frOXDAdJYrtVTVWep7ygfw2aI1WgVmhnoU)"> </div>
+<div align="center"> <img src="https://github.com/waseemtasawar/waseemtasawar/blob/main/banner.jpeg"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemtasawar&label=Profile%20views&color=0e75b6&style=flat" alt="waseemtasawar" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 - 🔭 I’m currently working on [shoes_website](https://github.com/waseemtasawar/shoes_website)
 
 - 🌱 I’m currently learning **React Native , Next js**
