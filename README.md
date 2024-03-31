@@ -3,11 +3,11 @@
 <div align="center"> <img src="https://github.com/waseemtasawar/waseemtasawar/blob/main/banner.jpeg"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemtasawar&label=Profile%20views&color=0e75b6&style=flat" alt="waseemtasawar" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 🔭 I’m currently working on [shoes_website](https://github.com/waseemtasawar/shoes_website)
+- 🔭 I’m currently working on [Ajency_website](https://github.com/waseemtasawar/Agency-website.git)
 
 - 🌱 I’m currently learning **React Native , Next js**
 
-- 👯 I’m looking to collaborate on [Muhammad Awais Khan](https://github.com/askhan963/web-dev-course-gdsc-atd)
+- 👯 I’m looking to collaborate on [Ajency-website](https://github.com/waseemtasawar/Agency-website.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/waseemtasawar](https://github.com/waseemtasawar)
 
