@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waseem Tasawar</h1>
 <h3 align="center">I'm passionate about building web application</h3>
-<div align="center"> <img src="https://github.com/waseemtasawar/waseemtasawar/blob/main/banner.jpeg"> </div>
+<div align="center"> <img src="https://github.com/waseemtasawar/waseemtasawar/blob/main/banner.png"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemtasawar&label=Profile%20views&color=0e75b6&style=flat" alt="waseemtasawar" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on [Ajency_website](https://github.com/waseemtasawar/Agency-website.git)
